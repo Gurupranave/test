@@ -12,6 +12,7 @@ test file
 <br>
 <div>
   <a>let's begin</a>
+  <img src="https://www.enwallpaper.com/wp-content/uploads/2021/06/wp8720835-scaled.jpg" width="800" heigth="800">
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
