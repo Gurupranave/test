@@ -10,9 +10,9 @@ test file
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br>
-<div>
+<div align="center">
   <a>let's begin</a>
-  <img src="https://www.enwallpaper.com/wp-content/uploads/2021/06/wp8720835-scaled.jpg" width="800" heigth="800">
+  <img src="https://www.enwallpaper.com/wp-content/uploads/2021/06/wp8720835-scaled.jpg" width="120" heigth="120">
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
